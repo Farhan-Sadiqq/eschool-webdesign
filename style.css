@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+}
+.logo{
+    width: 200px;
+    height: 60px;
+}
+.firstsec{
+    background-color: #F0FFF0;
+    height: 350px;
+    margin-bottom: 200px;
+    
+}
+.container-fluid{
+    background-color: #F0FFF0;
+}
+.heading1{
+    color: red;
+}
+.heading{
+    font-weight: 700;
+}
+.highlight{
+    color: #21B573;
+}
+.firdiv{
+    margin-top: 86px;
+    
+}
+.navbar{
+    background-color: #F0FFF0 !important;
+}
+.icons{
+    Width : 66px;
+    Height : 85px;
+    /* margin: 0 auto; */
+}
+.col-md-3 h3 {
+    text-align: center;
+    font-family: Poppins;
+    margin-top: 2%;
+}
+.col-md-3 img{
+    margin: 0 auto !important;
+}
+.detalis{
+    text-align: center;
+    font-family: Poppins;
+}
+.card-footer{
+    border-top: none;
+}
+.testimoial{
+     height: 500px; 
+    /* background-color: red; */
+}
+.card-icon{
+    width: 24px;
+    height: 24px;
+}
+.card-sml{
+    font-family: Poppins;
+    font-size: 16px;
+    color: lightslategray;
+    margin-left: 2px;
+}
+.card-btn{
+    margin-bottom: 25px;
+    margin-top: 5px;
+}
+.ochead{
+    text-align: center;
+}
+.secondsec{
+    margin-bottom: 100px;
+}
+.cont-img{
+    height: 120px;
+    width: 160px;
+}
+.testi{
+    margin: 0 auto;
+}
+.thead{
+    margin-bottom: 100px;
+}
+.nam{
+    font-weight: 800;
+}
+footer{
+    height: 400px;
+    background-color: #282531;
+}
+.ftpera{
+    color: white;
+}
+.crs-ul{
+    color: white;
+    margin-top: 40px;
+}   
+.copy{
+    color: white;
+    text-align: center;
+    margin-top: 60px;
+}
